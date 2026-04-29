@@ -2,6 +2,7 @@
     {
         "pluginmetadataversion": 2,
         "name": "Zenyard",
+        "author": "Zenyard",
         "type": [
             "ui",
             "helper"
@@ -9,22 +10,20 @@
         "api": [
             "python3"
         ],
-        "description": "AI-powered binary analysis using the Zenyard platform",
-        "longdescription": "Zenyard integrates with Binary Ninja to provide AI-powered analysis of binaries. Functions, globals, and other objects are analyzed by the Zenyard backend, which returns inferred names, comments, and type information directly into your binary.",
+        "description": "\"AI-powered binary analysis using the Zenyard platform\"",
+        "longdescription": "\"Zenyard integrates with Binary Ninja to provide AI-powered analysis of binaries. Functions, globals, and other objects are analyzed by the Zenyard backend, which returns inferred names, comments, and type information directly into your binary.\"",
         "license": {
             "name": "MIT",
-            "text": "Copyright (c) 2026 Zenyard\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+            "text": "Copyright 2026 Zenyard\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
         },
         "platforms": [
             "Darwin"
         ],
         "installinstructions": {
-            "Darwin": "Install the following pip packages: pydantic>=2.13.0 urllib3>=2.6.3 zstandard>=0.23.0 attrs>=22.2.0 python-dateutil>=2.8.0"
+            "Darwin": "\"Install the following pip packages: pydantic>=2.13.0 urllib3>=2.6.3 zstandard>=0.23.0 attrs>=22.2.0 python-dateutil>=2.8.0\""
         },
-        "dependencies": "",
         "version": "0.0.11",
-        "author": "Zenyard",
-        "lastUpdated": 1777455356,
+        "lastUpdated": 1777473209,
         "projectUrl": "https://github.com/zenyard/zenyard-binja",
         "projectData": {
             "id": 1205919581,
@@ -94,8 +93,8 @@
             "releases_url": "https://api.github.com/repos/zenyard/zenyard-binja/releases{/id}",
             "deployments_url": "https://api.github.com/repos/zenyard/zenyard-binja/deployments",
             "created_at": "2026-04-09T12:07:04Z",
-            "updated_at": "2026-04-29T09:35:56+00:00",
-            "pushed_at": "2026-04-29T09:35:56Z",
+            "updated_at": "2026-04-29T14:33:29+00:00",
+            "pushed_at": "2026-04-29T14:33:29Z",
             "git_url": "git://github.com/zenyard/zenyard-binja.git",
             "ssh_url": "git@github.com:zenyard/zenyard-binja.git",
             "clone_url": "https://github.com/zenyard/zenyard-binja.git",
@@ -135,7 +134,7 @@
                 "triage": true,
                 "pull": true
             },
-            "temp_clone_token": "B3GLNE3TLIC6LYZJNCQYF5DJ6IDPG",
+            "temp_clone_token": "B3GLNE7OT3PDLYYUUPUWR6DJ6IM4Q",
             "allow_squash_merge": true,
             "allow_merge_commit": true,
             "allow_rebase_merge": true,
@@ -193,11 +192,12 @@
             "subscribers_count": 0
         },
         "authorUrl": "https://github.com/zenyard",
-        "packageUrl": "https://github.com/zenyard/zenyard-binja",
+        "packageUrl": "https://api.github.com/repos/zenyard/zenyard-binja/zipball/refs/tags/0.0.11",
         "packageShortUrl": "",
         "view_only": false,
+        "dependencies": "",
         "path": "zenyard_zenyardbinja",
-        "commit": "2bad3ae4a5c1fe16735bbc2d5f07a376dc771f91",
+        "commit": "89e6598e90d2c70aac46577fba4d2f2a9b12baeb",
         "minimumBinaryNinjaVersion": 3164,
         "maximumBinaryNinjaVersion": 999999
     }
