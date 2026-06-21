@@ -27,7 +27,7 @@
             "Linux": "\"Install the following pip packages: pydantic>=2.13.0 urllib3>=2.6.3 zstandard>=0.23.0 attrs>=22.2.0 python-dateutil>=2.8.0 pygments>=2.15.0 mcp>=1.23.3 websockets>=13.0 hypercorn>=0.17.0 httpx>=0.28.0 zenyard-relay>=0.1.2\""
         },
         "dependencies": "pydantic>=2.13.0\nurllib3>=2.6.3\nzstandard>=0.23.0\nattrs>=22.2.0\npython-dateutil>=2.8.0\npygments>=2.15.0\nmcp>=1.23.3\nwebsockets>=13.0\nhypercorn>=0.17.0\nhttpx>=0.28.0\nzenyard-relay>=0.1.2",
-        "version": "0.1.11",
+        "version": "0.1.12",
         "lastUpdated": 1779270990,
         "projectUrl": "https://github.com/zenyard/zenyard-binja-public",
         "projectData": {
@@ -200,7 +200,7 @@
             "subscribers_count": 0
         },
         "authorUrl": "https://github.com/zenyard",
-        "packageUrl": "https://api.github.com/repos/zenyard/zenyard-binja-public/zipball/refs/tags/0.1.11",
+        "packageUrl": "https://api.github.com/repos/zenyard/zenyard-binja-public/zipball/refs/tags/0.1.12",
         "packageShortUrl": "",
         "view_only": false,
         "path": "zenyard_zenyardbinjapublic",
